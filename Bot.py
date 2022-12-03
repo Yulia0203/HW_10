@@ -4,7 +4,7 @@ from sklearn.linear_model import LogisticRegression
 
 wikipedia.set_lang("ru")
 
-bot = telebot.TeleBot("ТОКЕН", parse_mode=None)
+bot = telebot.TeleBot("TOKEN", parse_mode=None)
 
 wikipedia.set_lang("ru")
 
